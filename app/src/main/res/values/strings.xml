@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TbcTaskk8</string>
+    <string name="get_started">get started</string>
+    <string name="listen_to_the_best_n_music_everyday_n_with_hearme_now">Listen to the best\n music everyday\n with <font color="#07DA63">Hearme</font> now!</string>
+    <string name="let_s_you_in">Let\'s you in</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? <font color="#07DA63">Sign up</font></string>
+    <string name="sign_in_with_password">sign in with password</string>
+</resources>
